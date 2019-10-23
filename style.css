@@ -1,0 +1,25 @@
+Selector {
+	Property: value;
+}
+body{
+	background-image: url(https://66.media.tumblr.com/ab963e93cba47f37c0ecbfd4cbe2f2a6/tumblr_oqw7ymtlAX1vsboz2o3_500.jpg);
+	background-size: cover;
+}
+	
+p {
+	color: pink;
+	text-decoration: underline;
+	text-transform: uppercase;
+	line-height: 40px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Times New Roman;
+}
+ul {
+	color: white;
+	text-transform: uppercase;
+	line-height: 10px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Helvetica;
+}
